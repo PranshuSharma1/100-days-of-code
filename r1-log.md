@@ -15,19 +15,31 @@ Started a a C++ tutorial on youtube. Worked on the problems shred by the tutrial
 
 Log of Round 1 of #100DaysOfCode - done in 2021
 
-Day 1: 16 May 2021. Sunday
+    Day 1: 16 May 2021. Sunday
 
-Today's Progress: Worked on pattern based question on C++
+    Today's Progress: Worked on pattern based question on C++
 
-Thoughts: Feels good to be back at coding, though some of the questions were easy , but it really feels good to be back
+    Thoughts: Feels good to be back at coding, though some of the questions were easy , but it really feels good to be back
 
-Link to work: [pattern based question](https://github.com/PranshuSharma1/cpp-complete/commit/7cf1439cac8db304cd0cf996655976e1956fe1fa#diff-1fd38d5cbd2a997b91f725cb1cb0a710849db30dac491ee42e92443fd8e3c1a2)
+    Link to work: [pattern based question](https://github.com/PranshuSharma1/cpp-complete/commit/7cf1439cac8db304cd0cf996655976e1956fe1fa#diff-1fd38d5cbd2a997b91f725cb1cb0a710849db30dac491ee42e92443fd8e3c1a2)
 
+    -------------------------------------------------------------
 
-Day 2: 17 May 2021. Monday
+    Day 2: 17 May 2021. Monday
 
-Today's Progress: Worked on more pattern based question on C++
+    Today's Progress: Worked on more pattern based question on C++
 
-Thoughts: Feels good to be coding again , in between got bored a bit , and then got some tricky question to solve on pattern as well.
+    Thoughts: Feels good to be coding again , in between got bored a bit , and then got some tricky question to solve on pattern as well.
 
-Link to work: [pattern based question](https://github.com/PranshuSharma1/cpp-complete/commit/e9c5b5fac31f44d5403f486b225c33937e56d06c)
+    Link to work: [pattern based question](https://github.com/PranshuSharma1/cpp-complete/commit/e9c5b5fac31f44d5403f486b225c33937e56d06c)
+
+    -------------------------------------------------------------
+    
+    Day 3: 18 May 2021. Tuesday
+
+    Today's Progress: Worked on fuctions based question on C++
+
+    Thoughts: Feels good to do some higher level of question ,as fuction is very important concept in coding 
+
+    Link to work: [fuction based question](https://github.com/PranshuSharma1/cpp-complete/commit/d9d649fbaa31c4ae2d7d87a62b5bd96d8713185e)
+
