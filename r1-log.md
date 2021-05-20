@@ -43,3 +43,13 @@ Log of Round 1 of #100DaysOfCode - done in 2021
 
     Link to work: [fuction based question](https://github.com/PranshuSharma1/cpp-complete/commit/d9d649fbaa31c4ae2d7d87a62b5bd96d8713185e)
 
+    -------------------------------------------------------------
+    
+    Day 4: 20 May 2021. Wednesday
+
+    Today's Progress: Worked on functions based searching linear/binary question on C++
+
+    Thoughts: Feels good , did some questions of binary/linear search as this is very important , also viewd the classes on Time Complexity
+
+    Link to work: [array search based question](https://github.com/PranshuSharma1/cpp-complete/commit/371b4cd3e5556d5ed64b63096adcc32c052b54ea)
+
