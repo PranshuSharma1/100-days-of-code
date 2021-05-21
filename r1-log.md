@@ -53,3 +53,12 @@ Log of Round 1 of #100DaysOfCode - done in 2021
 
     Link to work: [array search based question](https://github.com/PranshuSharma1/cpp-complete/commit/371b4cd3e5556d5ed64b63096adcc32c052b54ea)
 
+    -------------------------------------------------------------
+    
+    Day 5: 21 May 2021. Friday
+
+    Today's Progress: Worked on selection and bubble sorting algo on C++
+
+    Thoughts: Feels good , did some  algo sorting  based question of selection and bubble sort
+
+    Link to work: [sorting  question](https://github.com/PranshuSharma1/cpp-complete/commit/709fe3616d6514cc86584ef26f3321733773c07d)
