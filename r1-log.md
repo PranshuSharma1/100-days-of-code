@@ -45,7 +45,7 @@ Log of Round 1 of #100DaysOfCode - done in 2021
 
     -------------------------------------------------------------
     
-    Day 4: 20 May 2021. Wednesday
+    Day 4: 20 May 2021. Thursday
 
     Today's Progress: Worked on functions based searching linear/binary question on C++
 
@@ -62,3 +62,15 @@ Log of Round 1 of #100DaysOfCode - done in 2021
     Thoughts: Feels good , did some  algo sorting  based question of selection and bubble sort
 
     Link to work: [sorting  question](https://github.com/PranshuSharma1/cpp-complete/commit/709fe3616d6514cc86584ef26f3321733773c07d)
+
+
+-------------------------------------------------------------
+    
+    Day 6: 22 May 2021. saturday
+
+    Today's Progress: Worked on insertion sorting algo and some arrays based questions on C++
+
+    Thoughts: Feels good , did some insertion  algo sorting  and on array
+
+    Link to work: [sorting and array question](https://github.com/PranshuSharma1/cpp-complete/commit/a5f74e97d1357af5c46052cf4e04c6a893e0810b)
+
