@@ -74,3 +74,14 @@ Log of Round 1 of #100DaysOfCode - done in 2021
 
     Link to work: [sorting and array question](https://github.com/PranshuSharma1/cpp-complete/commit/a5f74e97d1357af5c46052cf4e04c6a893e0810b)
 
+
+-------------------------------------------------------------
+    
+    Day 7: 23 May 2021. sundayday
+
+    Today's Progress: Worked on compitetive questions based on array and subarrays on C++
+
+
+    Thoughts: the questions level is preety good, u have to think before u code , as they r a bit tricky
+    Link to work: [sub-array question](https://github.com/PranshuSharma1/cpp-complete/commit/f09333b439555d51da82ed468a2c88b1e53a335d)
+
