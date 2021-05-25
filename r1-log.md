@@ -77,11 +77,22 @@ Log of Round 1 of #100DaysOfCode - done in 2021
 
 -------------------------------------------------------------
     
-    Day 7: 23 May 2021. sundayday
+    Day 7: 23 May 2021. sunday
 
     Today's Progress: Worked on compitetive questions based on array and subarrays on C++
 
 
     Thoughts: the questions level is preety good, u have to think before u code , as they r a bit tricky
     Link to work: [sub-array question](https://github.com/PranshuSharma1/cpp-complete/commit/f09333b439555d51da82ed468a2c88b1e53a335d)
+
+-------------------------------------------------------------
+    
+    Day 8: 25 May 2021. tuesday
+
+    Today's Progress: Worked on compitetive questions based on array and subarrays on C++. i.e smallest-positve-missing-number and subarray-with-given-number.
+
+
+    Thoughts: the questions level is preety good, u have to think before u code , as they r a bit tricky, but it feels good to solve a tricky question
+
+    Link to work: [competitive array based question](https://github.com/PranshuSharma1/cpp-complete/commit/4a0195d8e0bc1b169eff02a400ce5d9544311d6d)
 
