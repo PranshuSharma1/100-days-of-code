@@ -107,3 +107,14 @@ Log of Round 1 of #100DaysOfCode - done in 2021
 
     Link to work: [sub array based question](https://github.com/PranshuSharma1/cpp-complete/commit/cbd5892f3e1fcdc21d52bf050203d10dc637f057)
 
+-------------------------------------------------------------
+    
+    Day 10: 27 May 2021. Thursday
+
+    Today's Progress: Worked on questions based on maximum sum of subarrays with different time complexity on C++ , solved with a help of kadane algo. 
+
+
+    Thoughts: the questions level is preety good, worked on a same question with different time complexity.
+
+    Link to work: [sub array based question](https://github.com/PranshuSharma1/cpp-complete/commit/ce5983f4df2d7e9573ad51386aff910ec602bee2)
+
