@@ -130,3 +130,14 @@ Log of Round 1 of #100DaysOfCode - done in 2021
 
     Link to work: [sub array based question](https://github.com/PranshuSharma1/cpp-complete/commit/1e180a2b922af13c1de75ad504426135cec927ee)
 
+-------------------------------------------------------------
+    
+    Day 12: 30 May 2021. Sunday
+
+    Today's Progress: Worked on questions based on 2-D matrix , also solved the spiral order tarversal display of matrix . 
+
+
+    Thoughts: really loved thi problem , its a bit tricky but solving it is a fun.
+
+    Link to work: [sub array based question](https://github.com/PranshuSharma1/cpp-complete/commit/aacb9f2dc2cbe3356a1fe52e4b9375c8f100aedc)
+
