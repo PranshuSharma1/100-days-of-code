@@ -139,7 +139,7 @@ Day 12: 30 May 2021. Sunday
 
 >Thoughts: really loved thi problem , its a bit tricky but solving it is a fun.
 
-Link to work: [sub array based question](https://github.com/PranshuSharma1/cpp-complete/commit/aacb9f2dc2cbe3356a1fe52e4b9375c8f100aedc)
+Link to work: [matrix based question](https://github.com/PranshuSharma1/cpp-complete/commit/aacb9f2dc2cbe3356a1fe52e4b9375c8f100aedc)
 
 -------------------------------------------------------------
 
@@ -150,4 +150,16 @@ Day 13: 31 May 2021. Monday
 
 >Thoughts: really loved thi problem ,need to increase my confidence of coding, will solve more question .
 
-Link to work: [sub array based question](https://github.com/PranshuSharma1/cpp-complete/commit/6b9df866bd5981ab137c0258146cc79620b87c25)
+Link to work: [matrix based question](https://github.com/PranshuSharma1/cpp-complete/commit/6b9df866bd5981ab137c0258146cc79620b87c25)
+
+-------------------------------------------------------------
+
+Day 14: 1 June 2021. Tuesday
+
+>Today's Progress: Worked on questions based on 2-D matrix , solved search a elemnt in a  matrix . 
+
+
+>Thoughts: really loved this problem ,have finally solved this problem via help of binary search .
+
+Link to work: [matrix based question](https://github.com/PranshuSharma1/cpp-complete/commit/8b37105380438ba67d5252de00ceb8b9a4dab2e5)
+
