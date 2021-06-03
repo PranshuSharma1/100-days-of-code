@@ -163,3 +163,16 @@ Day 14: 1 June 2021. Tuesday
 
 Link to work: [matrix based question](https://github.com/PranshuSharma1/cpp-complete/commit/8b37105380438ba67d5252de00ceb8b9a4dab2e5)
 
+-------------------------------------------------------------
+
+Day 15: 3 June 2021. Thursday
+
+>Today's Progress: Worked on pallindrone of a string . 
+
+
+>Thoughts: really loved this problem ,though the level of question is easy.
+
+Link to work: [pallindrone question](https://github.com/PranshuSharma1/cpp-complete/commit/36e9b755f2b60d55176221b7aa7eafe4035ad655)
+
+
+
