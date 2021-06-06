@@ -175,4 +175,18 @@ Day 15: 3 June 2021. Thursday
 Link to work: [pallindrone question](https://github.com/PranshuSharma1/cpp-complete/commit/36e9b755f2b60d55176221b7aa7eafe4035ad655)
 
 
+-------------------------------------------------------------
+
+Day 15: 6 June 2021. Sunday
+
+>Today's Progress: Worked on finding a largest word in a sentence . Also solved a problem on hacker earth - Code-Monk i.e number of matrix inversion.
+
+
+>Thoughts: really loved this problem ,strings are not that easy as i thought it was. also loved to work on hacker rank problem as well.
+
+Link to work: [largest word question](https://github.com/PranshuSharma1/cpp-complete/commit/9aed5ae30179cae46c7f151535a6ff1b370c26f1)
+
+Link to work: [hacker-rank question](https://github.com/PranshuSharma1/cpp-complete/commit/725ce5081c28f44b9d3866c71223e4426d944187)
+
+
 
