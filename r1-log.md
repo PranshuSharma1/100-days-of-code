@@ -188,5 +188,15 @@ Link to work: [largest word question](https://github.com/PranshuSharma1/cpp-comp
 
 Link to work: [hacker-rank question](https://github.com/PranshuSharma1/cpp-complete/commit/725ce5081c28f44b9d3866c71223e4426d944187)
 
+-------------------------------------------------------------
+
+Day 16: 7 June 2021. Monday
+
+>Today's Progress: learned about the pointer and stack-heap memory concept.
+
+
+>Thoughts: really loved this this new concepts , these are really helpful and deep concept of C++
+
+Link to work: [pointer and stack-heap](https://github.com/PranshuSharma1/cpp-complete/commit/c6abbb2f095c56d3832cd609fdb47028ee69b8aa)
 
 
