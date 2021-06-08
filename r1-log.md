@@ -177,7 +177,7 @@ Link to work: [pallindrone question](https://github.com/PranshuSharma1/cpp-compl
 
 -------------------------------------------------------------
 
-Day 15: 6 June 2021. Sunday
+Day 16: 6 June 2021. Sunday
 
 >Today's Progress: Worked on finding a largest word in a sentence . Also solved a problem on hacker earth - Code-Monk i.e number of matrix inversion.
 
@@ -190,7 +190,7 @@ Link to work: [hacker-rank question](https://github.com/PranshuSharma1/cpp-compl
 
 -------------------------------------------------------------
 
-Day 16: 7 June 2021. Monday
+Day 17: 7 June 2021. Monday
 
 >Today's Progress: learned about the pointer and stack-heap memory concept.
 
@@ -198,5 +198,19 @@ Day 16: 7 June 2021. Monday
 >Thoughts: really loved this this new concepts , these are really helpful and deep concept of C++
 
 Link to work: [pointer and stack-heap](https://github.com/PranshuSharma1/cpp-complete/commit/c6abbb2f095c56d3832cd609fdb47028ee69b8aa)
+
+-------------------------------------------------------------
+
+Day 18: 8 June 2021. Tuesday
+
+>Today's Progress: worked on basic string functions, also got to know the difference between character array and string.
+
+
+>Thoughts: there is a lot to learn in c++ , as my basics are not that strong anymore as i thought it was.
+
+Link to work: [basic string functions](https://github.com/PranshuSharma1/cpp-complete/commit/5025c1ccb3d270cba6c5c177405e1afc5ed54593)
+
+
+
 
 
