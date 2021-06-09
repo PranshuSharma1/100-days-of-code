@@ -208,7 +208,17 @@ Day 18: 8 June 2021. Tuesday
 
 >Thoughts: there is a lot to learn in c++ , as my basics are not that strong anymore as i thought it was.
 
-Link to work: [basic string functions](https://github.com/PranshuSharma1/cpp-complete/commit/5025c1ccb3d270cba6c5c177405e1afc5ed54593)
+Link to work: [basic string functions](https://github.com/PranshuSharma1/cpp-complete/commit/cc9989ded0e06de0380539cb387b08181065cd7d)
+
+-------------------------------------------------------------
+
+Day 19: 9 June 2021. Wednesday
+
+>Today's Progress: worked on string challenges like convert the string to upper/lower , maximum number of frequency etc .
+
+>Thoughts: today i solved all of the problems by my own , feels real good , the login is also good.
+
+Link to work: [string challenge questions](https://github.com/PranshuSharma1/cpp-complete/commit/5025c1ccb3d270cba6c5c177405e1afc5ed54593)
 
 
 
