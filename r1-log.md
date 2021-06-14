@@ -221,6 +221,14 @@ Day 19: 9 June 2021. Wednesday
 Link to work: [string challenge questions](https://github.com/PranshuSharma1/cpp-complete/commit/5025c1ccb3d270cba6c5c177405e1afc5ed54593)
 
 
+-------------------------------------------------------------
 
+Day 20: 14 June 2021. Monday
+
+>Today's Progress: worked on Sieve-of-Eratosthenes to find the primes numbers , time complexity is O(nlogn) and space complicity O(n).
+
+>Thoughts: I Aam back after 4 days , last commit was on wednesday, but will try my best to be concistent and dicsiplined about the challenge.
+
+Link to work: [Sieve-of-Eratosthenes question](https://github.com/PranshuSharma1/cpp-complete/commit/2faba4102eb0799ea5a53e79bd02548da9b3d49f)
 
 
