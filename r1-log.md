@@ -232,3 +232,13 @@ Day 20: 14 June 2021. Monday
 Link to work: [Sieve-of-Eratosthenes question](https://github.com/PranshuSharma1/cpp-complete/commit/2faba4102eb0799ea5a53e79bd02548da9b3d49f)
 
 
+-------------------------------------------------------------
+
+Day 21: 18 June 2021. Friday
+
+>Today's Progress: worked hackerrank question of monk and rotation.
+
+>Thoughts: I Aam back again after 4 days , last commit was on monday, but have to do my best to be concistent and dicsiplined about the challenge. the level of question today is good , really liked it.
+
+Link to work: [Sieve-of-Eratosthenes question](https://github.com/PranshuSharma1/cpp-complete/commit/345b27e7ad77b3eab3c91df9e402353d3c932f00)
+
