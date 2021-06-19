@@ -236,9 +236,19 @@ Link to work: [Sieve-of-Eratosthenes question](https://github.com/PranshuSharma1
 
 Day 21: 18 June 2021. Friday
 
->Today's Progress: worked hackerrank question of monk and rotation.
+>Today's Progress: worked hackerearth question of monk and rotation.
 
 >Thoughts: I Aam back again after 4 days , last commit was on monday, but have to do my best to be concistent and dicsiplined about the challenge. the level of question today is good , really liked it.
 
-Link to work: [Sieve-of-Eratosthenes question](https://github.com/PranshuSharma1/cpp-complete/commit/345b27e7ad77b3eab3c91df9e402353d3c932f00)
+Link to work: [hackerearth question](https://github.com/PranshuSharma1/cpp-complete/commit/345b27e7ad77b3eab3c91df9e402353d3c932f00)
+
+-------------------------------------------------------------
+
+Day 22: 19 June 2021. Saturday
+
+>Today's Progress: worked hacker earth question of minimum AND XOR OR problem.its not solved yet as i am facing an error of time complexcity
+
+>Thoughts: my skills are improving , now i have a better understanding of the basics
+
+Link to work: [HackerEarth question](https://github.com/PranshuSharma1/cpp-complete/commit/285c84ea24100f8de2289fcf5ae4c8b25bed1298)
 
