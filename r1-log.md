@@ -252,3 +252,14 @@ Day 22: 19 June 2021. Saturday
 
 Link to work: [HackerEarth question](https://github.com/PranshuSharma1/cpp-complete/commit/285c84ea24100f8de2289fcf5ae4c8b25bed1298)
 
+
+-------------------------------------------------------------
+
+Day 23: 21 June 2021. Monday
+
+>Today's Progress: worked on Sieve-of-Eratosthenes-Prime_Factorization with time complexity O(n log(log n))
+
+>Thoughts: finnaly competed this sieve video, also i need to study about the BIT manupulations
+
+Link to work: [Prime-Factorisation by Sieve question](https://github.com/PranshuSharma1/cpp-complete/commit/326e1131d03ffc03ca05ccbdc0c76304fb217d30)
+
