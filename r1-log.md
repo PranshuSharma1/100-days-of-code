@@ -263,3 +263,13 @@ Day 23: 21 June 2021. Monday
 
 Link to work: [Prime-Factorisation by Sieve question](https://github.com/PranshuSharma1/cpp-complete/commit/326e1131d03ffc03ca05ccbdc0c76304fb217d30)
 
+-------------------------------------------------------------
+
+Day 24: 22 June 2021. Tuesday
+
+>Today's Progress: worked worked on  gcd  and recursion based  questions
+
+>Thoughts: finally i am getting confident on  the recursion based question.
+
+Link to work: [recursion and gcd questions](https://github.com/PranshuSharma1/cpp-complete/commit/b49240b920b27d5b92921e86db2f9fe63d03539c)
+
