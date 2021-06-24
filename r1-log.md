@@ -283,3 +283,13 @@ Day 25: 23 June 2021. Wednesday
 
 Link to work: [recursion questions](https://github.com/PranshuSharma1/cpp-complete/commit/f2a5ae77038244f57f31366f610ba3730ba898c0)
 
+-------------------------------------------------------------
+
+Day 26: 24 June 2021. Thursday
+
+>Today's Progress: worked on recusrion based challenges, on first and last occuerence , check if array is sorted or not etc
+
+>Thoughts: recusion is quite tricky m but i really liking the recusion concept.
+
+Link to work: [recursion challenges questions](https://github.com/PranshuSharma1/cpp-complete/commit/70c51a6f35acb73f079482f4b63bf5d9ac9e28c2)
+
