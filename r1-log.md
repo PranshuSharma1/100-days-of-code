@@ -293,3 +293,13 @@ Day 26: 24 June 2021. Thursday
 
 Link to work: [recursion challenges questions](https://github.com/PranshuSharma1/cpp-complete/commit/70c51a6f35acb73f079482f4b63bf5d9ac9e28c2)
 
+-------------------------------------------------------------
+
+Day 27: 28 June 2021. Monday
+
+>Today's Progress: worked on worked on recusrion on strings, like tower of hanoi, remove duplicates, move all X to end etc.
+
+>Thoughts: recusion is quite tricky and today i have worked on the string based question which is good. Today I am back after 4 days , have to work on my consistency.
+
+Link to work: [recursion challenges questions](https://github.com/PranshuSharma1/cpp-complete/commit/6e04890823a41008fcaf6f494fd57f9aed2e3a95)
+
