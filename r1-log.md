@@ -303,4 +303,13 @@ Day 27: 28 June 2021. Monday
 
 Link to work: [recursion challenges questions](https://github.com/PranshuSharma1/cpp-complete/commit/6e04890823a41008fcaf6f494fd57f9aed2e3a95)
 
-https://github.com/PranshuSharma1/100-days-of-code/commit/cfd9743e2916c344f29eb5a95acd9873f77429b7
+-------------------------------------------------------------
+
+Day 28: 5 July 2021. Monday
+
+>Today's Progress: worked on Merge Sort, the time complexity of the merge sort is O(nlogn)
+
+>Thoughts: worked on the challenge for after a long time , the merge sort logic is good , really took some time for me to get a grasp on it.
+
+Link to work: [Merge Sort question](https://github.com/PranshuSharma1/cpp-complete/commit/325d70a5707afd9e620c74404d8b4bc921635748)
+
