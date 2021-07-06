@@ -313,3 +313,13 @@ Day 28: 5 July 2021. Monday
 
 Link to work: [Merge Sort question](https://github.com/PranshuSharma1/cpp-complete/commit/325d70a5707afd9e620c74404d8b4bc921635748)
 
+-------------------------------------------------------------
+
+Day 29: 6 July 2021. Tuesday
+
+>Today's Progress: worked on Quick Sort, the time complexity of the Quick sort is  best case time complexity is O(nlogn) and workst case time complexity is o(n^2).
+
+>Thoughts: feels really good after solving this quick sort algo.
+
+Link to work: [Quick Sort question](https://github.com/PranshuSharma1/cpp-complete/commit/37bc01b3350f9e4f2fdc02d00d4e662ec4ddf91d)
+
