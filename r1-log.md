@@ -323,3 +323,13 @@ Day 29: 6 July 2021. Tuesday
 
 Link to work: [Quick Sort question](https://github.com/PranshuSharma1/cpp-complete/commit/37bc01b3350f9e4f2fdc02d00d4e662ec4ddf91d)
 
+-------------------------------------------------------------
+
+Day 30: 19 July 2021. Monday
+
+>Today's Progress: worked on count sort , the time complexity of the count sort is  best case time complexity is O(n) 
+
+>Thoughts: solved the count sort code by myself , just by watching the algo video , without seeing the code.
+
+Link to work: [Quick Sort question](https://github.com/PranshuSharma1/cpp-complete/commit/ed071cc9627273c4cd2215f78eece74ffa7fb56b)
+
