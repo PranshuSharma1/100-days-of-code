@@ -327,9 +327,20 @@ Link to work: [Quick Sort question](https://github.com/PranshuSharma1/cpp-comple
 
 Day 30: 19 July 2021. Monday
 
->Today's Progress: worked on count sort , the time complexity of the count sort is  best case time complexity is O(n) 
+>Today's Progress: worked on count sort , the time complexity of the count sort is  best case time complexity is O(n+k) 
 
 >Thoughts: solved the count sort code by myself , just by watching the algo video , without seeing the code.
 
-Link to work: [Quick Sort question](https://github.com/PranshuSharma1/cpp-complete/commit/ed071cc9627273c4cd2215f78eece74ffa7fb56b)
+Link to work: [Count Sort question](https://github.com/PranshuSharma1/cpp-complete/commit/ed071cc9627273c4cd2215f78eece74ffa7fb56b)
 
+-------------------------------------------------------------
+
+Day 31: 20 July 2021. Tuesday
+
+>Today's Progress: worked on wave sort , the time complexity of the wave sort is  is O(n+k) 
+
+>Thoughts: solved the wavesort code by myself, feels really good .
+
+Link to work: [Wave Sort question](https://github.com/PranshuSharma1/cpp-complete/commit/606a28752d12eb6fc87f015092a791b7e6ebb1be)
+
+https://github.com/PranshuSharma1/100-days-of-code/commit/a4e69f7b8335d52d7e53e31d24e72a302ee02932
