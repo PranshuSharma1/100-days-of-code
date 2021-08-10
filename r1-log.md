@@ -337,10 +337,18 @@ Link to work: [Count Sort question](https://github.com/PranshuSharma1/cpp-comple
 
 Day 31: 20 July 2021. Tuesday
 
->Today's Progress: worked on wave sort , the time complexity of the wave sort is  is O(n+k) 
-
+ 
 >Thoughts: solved the wavesort code by myself, feels really good .
 
 Link to work: [Wave Sort question](https://github.com/PranshuSharma1/cpp-complete/commit/606a28752d12eb6fc87f015092a791b7e6ebb1be)
 
-https://github.com/PranshuSharma1/100-days-of-code/commit/a4e69f7b8335d52d7e53e31d24e72a302ee02932
+-------------------------------------------------------------
+
+Day 32: 10 August 2021. Tuesday
+
+ 
+>Thoughts: learned about classes , object, different kind of constructors, opeartor overloading , function overloading and destructors. .
+
+Link to work: [Class and object question](https://github.com/PranshuSharma1/cpp-complete/commit/b1ad22bfcdf33e08e3640d35290886ee72ba5721)
+
+https://github.com/PranshuSharma1/100-days-of-code/commit/abd99b6e0d58a1f39c6d784164077435e698d180
