@@ -347,8 +347,10 @@ Link to work: [Wave Sort question](https://github.com/PranshuSharma1/cpp-complet
 Day 32: 10 August 2021. Tuesday
 
  
->Thoughts: learned about classes , object, different kind of constructors, opeartor overloading , function overloading and destructors. .
+>>Today's Progress:learned about classes , object, different kind of constructors, opeartor overloading , function overloading and destructors. .
+
+>Thoughts:- really felt good after learning this after 21 days. its great to be back.
 
 Link to work: [Class and object question](https://github.com/PranshuSharma1/cpp-complete/commit/b1ad22bfcdf33e08e3640d35290886ee72ba5721)
 
-https://github.com/PranshuSharma1/100-days-of-code/commit/abd99b6e0d58a1f39c6d784164077435e698d180
+https://github.com/PranshuSharma1/100-days-of-code/commit/f18c2678ef2be938a6bc9b73c77110e7c160a424
