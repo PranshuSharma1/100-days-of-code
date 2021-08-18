@@ -353,4 +353,14 @@ Day 32: 10 August 2021. Tuesday
 
 Link to work: [Class and object question](https://github.com/PranshuSharma1/cpp-complete/commit/b1ad22bfcdf33e08e3640d35290886ee72ba5721)
 
-https://github.com/PranshuSharma1/100-days-of-code/commit/f18c2678ef2be938a6bc9b73c77110e7c160a424
+-------------------------------------------------------------
+
+Day 33: 18 August 2021. Wednesday
+
+ 
+>>Today's Progress:learned about encapsulation , inheritence , polymorphism and its type i.e run-time and compile-time , opeartor overloading , function overloading and destructors. .
+
+>Thoughts:- now i days i have to work on my consistency.
+
+Link to work: [polymosrphism question](https://github.com/PranshuSharma1/cpp-complete/commit/52eda583e966bca7a560b9cebd0a8aa597239427)
+
