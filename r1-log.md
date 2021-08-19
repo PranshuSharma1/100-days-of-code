@@ -364,3 +364,19 @@ Day 33: 18 August 2021. Wednesday
 
 Link to work: [polymosrphism question](https://github.com/PranshuSharma1/cpp-complete/commit/52eda583e966bca7a560b9cebd0a8aa597239427)
 
+https://github.com/PranshuSharma1/100-days-of-code/commit/36231e71c541f2a8b2385be0808aeed4bf58cb2c
+
+
+-------------------------------------------------------------
+
+Day 34: 18 August 2021. Thursday
+
+ 
+>>Today's Progress:learned about linked list insertion at the tail and display. .
+
+>Thoughts:- the program is not working now till yet..
+
+Link to work: [polymosrphism question](https://github.com/PranshuSharma1/cpp-complete/commit/0f65136217629ad71af2f50c3c893e85312c41b0)
+
+
+
