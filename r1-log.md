@@ -369,7 +369,7 @@ https://github.com/PranshuSharma1/100-days-of-code/commit/36231e71c541f2a8b2385b
 
 -------------------------------------------------------------
 
-Day 34: 18 August 2021. Thursday
+Day 34: 19 August 2021. Thursday
 
  
 >>Today's Progress:learned about linked list insertion at the tail and display. .
@@ -380,3 +380,4 @@ Link to work: [polymosrphism question](https://github.com/PranshuSharma1/cpp-com
 
 
 
+https://github.com/PranshuSharma1/100-days-of-code/commit/c9d6918a88edc70c020ec03f3c542cce6677eacc
