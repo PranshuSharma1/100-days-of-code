@@ -380,7 +380,7 @@ Link to work: [Linked-list question](https://github.com/PranshuSharma1/cpp-compl
 
 -------------------------------------------------------------
 
-Day 35: 2 August 2021. Thursday
+Day 35: 2 September 2021. Thursday
 
  
 >>Today's Progress:- worked on searching, deletion and reversing the linked list
@@ -391,4 +391,4 @@ Link to work: [Linked-list question](https://github.com/PranshuSharma1/cpp-compl
 
 
 
-https://github.com/PranshuSharma1/100-days-of-code/commit/c9d6918a88edc70c020ec03f3c542cce6677eacc
+https://github.com/PranshuSharma1/100-days-of-code/commit/a861c3b544c9aa574d3c26d4b07f3926dc15335d
