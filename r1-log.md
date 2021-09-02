@@ -376,7 +376,18 @@ Day 34: 19 August 2021. Thursday
 
 >Thoughts:- the program is not working now till yet..
 
-Link to work: [polymosrphism question](https://github.com/PranshuSharma1/cpp-complete/commit/0f65136217629ad71af2f50c3c893e85312c41b0)
+Link to work: [Linked-list question](https://github.com/PranshuSharma1/cpp-complete/commit/0f65136217629ad71af2f50c3c893e85312c41b0)
+
+-------------------------------------------------------------
+
+Day 35: 2 August 2021. Thursday
+
+ 
+>>Today's Progress:- worked on searching, deletion and reversing the linked list
+
+>Thoughts:- the previous program is working fine now and others as well.
+
+Link to work: [Linked-list question](https://github.com/PranshuSharma1/cpp-complete/commit/5dd637d4ec180689e7b5c38430b6c721997fcaca)
 
 
 
