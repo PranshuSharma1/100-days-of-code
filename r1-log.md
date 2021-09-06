@@ -390,5 +390,16 @@ Day 35: 2 September 2021. Thursday
 Link to work: [Linked-list question](https://github.com/PranshuSharma1/cpp-complete/commit/5dd637d4ec180689e7b5c38430b6c721997fcaca)
 
 
+-------------------------------------------------------------
 
-https://github.com/PranshuSharma1/100-days-of-code/commit/a861c3b544c9aa574d3c26d4b07f3926dc15335d
+Day 36: 6 September 2021. Monday
+
+ 
+>>Today's Progress:- worked on reversing a k group node linked list
+
+>Thoughts:- the feels good , having a good undersatnding of linked list now..
+
+Link to work: [reverse K-group Linked-list question](https://github.com/PranshuSharma1/cpp-complete/commit/92f76fdc68931f8eb70687975abce92b324f3a68)
+
+
+
