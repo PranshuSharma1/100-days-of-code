@@ -402,4 +402,17 @@ Day 36: 6 September 2021. Monday
 Link to work: [reverse K-group Linked-list question](https://github.com/PranshuSharma1/cpp-complete/commit/92f76fdc68931f8eb70687975abce92b324f3a68)
 
 
+-------------------------------------------------------------
+
+Day 37: 8 September 2021. wednesday
+
+ 
+>>Today's Progress:- worked on detecting a fuction to find whether the linked list is cyclic or not.
+
+>Thoughts:- have learned about the hare and tortouse algorithm.
+
+Link to work: [hare_tortoise.cpp Linked-list question](https://github.com/PranshuSharma1/cpp-complete/commit/cd8815ffa00a79f3a86a2de5473e4913a14ce332)
+
+
+
 
