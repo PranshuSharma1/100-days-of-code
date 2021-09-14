@@ -414,5 +414,17 @@ Day 37: 8 September 2021. wednesday
 Link to work: [hare_tortoise.cpp Linked-list question](https://github.com/PranshuSharma1/cpp-complete/commit/cd8815ffa00a79f3a86a2de5473e4913a14ce332)
 
 
+-------------------------------------------------------------
 
+Day 38: 14 September 2021. Tuesday
+
+ 
+>>Today's Progress:- worked on cyclic linked list , making cyclic linked-list, removal of cyclic linked list.
+
+>Thoughts:- have learned about the hare and tortouse algorithm aka floyd algorithm.
+
+Link to work: [hare_tortoise.cpp Linked-list question](https://github.com/PranshuSharma1/cpp-complete/commit/3c4f9f173c8dc6654bf5fd0dad7c22dc757dc10e)
+
+
+https://github.com/PranshuSharma1/100-days-of-code/commit/d10624e01148b8717a65656e2bf8932effa42209
 
