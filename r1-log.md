@@ -425,6 +425,16 @@ Day 38: 14 September 2021. Tuesday
 
 Link to work: [hare_tortoise.cpp Linked-list question](https://github.com/PranshuSharma1/cpp-complete/commit/3c4f9f173c8dc6654bf5fd0dad7c22dc757dc10e)
 
+-------------------------------------------------------------
 
-https://github.com/PranshuSharma1/100-days-of-code/commit/d10624e01148b8717a65656e2bf8932effa42209
+Day 39: 15 September 2021. Wednesday
+
+ 
+>>Today's Progress:- worked worked on doubly linked list and append k nodes in front linked list.
+
+>Thoughts:- have solved the question all by my own , feels really good, i am gaining confidence in the linked list question now.
+
+Link to work: [doubly Linked-list and append-K-nodes question](https://github.com/PranshuSharma1/cpp-complete/commit/6b3f5998695dbc8ea943059159e8a29a1880a0cd)
+
+
 
