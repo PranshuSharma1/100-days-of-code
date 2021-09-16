@@ -430,11 +430,21 @@ Link to work: [hare_tortoise.cpp Linked-list question](https://github.com/Pransh
 Day 39: 15 September 2021. Wednesday
 
  
->>Today's Progress:- worked worked on doubly linked list and append k nodes in front linked list.
+>>Today's Progress:-  worked on doubly linked list and append k nodes in front linked list.
 
 >Thoughts:- have solved the question all by my own , feels really good, i am gaining confidence in the linked list question now.
 
 Link to work: [doubly Linked-list and append-K-nodes question](https://github.com/PranshuSharma1/cpp-complete/commit/6b3f5998695dbc8ea943059159e8a29a1880a0cd)
 
+-------------------------------------------------------------
+
+Day 40: 16 September 2021. Thursday
+
+ 
+>>Today's Progress:-  worked on detecting the intersection b/w 2 linked list and aslo creating 2 intersected linked list.
+
+>Thoughts:- have solved the question all by my own and also with some help. feels really good.
+
+Link to work: [intersection of 2 linked list question](https://github.com/PranshuSharma1/cpp-complete/commit/4441a8aa2ebe55e49debead5e448a56027de2a05)
 
 
