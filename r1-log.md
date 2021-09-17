@@ -447,4 +447,18 @@ Day 40: 16 September 2021. Thursday
 
 Link to work: [intersection of 2 linked list question](https://github.com/PranshuSharma1/cpp-complete/commit/4441a8aa2ebe55e49debead5e448a56027de2a05)
 
+-------------------------------------------------------------
+
+Day 41: 17 September 2021. Friday
+
+ 
+>>Today's Progress:-  worked on merging of 2 sorted linked list with iterative and recursive way both. The time complexity is o(n+m).
+
+>Thoughts:- have solve dthe question with a little help in logic , feels really good to have a confidence back in the recursion problem as well.
+
+Link to work: [merging 2 sorted linked list question](https://github.com/PranshuSharma1/cpp-complete/commit/f741b71923d2d056b0fae1c17b6bffda50032fd6)
+
+
+
+
 
