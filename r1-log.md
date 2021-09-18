@@ -458,7 +458,18 @@ Day 41: 17 September 2021. Friday
 
 Link to work: [merging 2 sorted linked list question](https://github.com/PranshuSharma1/cpp-complete/commit/f741b71923d2d056b0fae1c17b6bffda50032fd6)
 
+-------------------------------------------------------------
+
+Day 42: 18 September 2021. Saturday
+
+ 
+>>Today's Progress:-  worked on basic operations (like insertion at head/tail, deletion at head/tail, display) circular linked list and updating linked list by printing even odd nodes of linked list
+
+>Thoughts:- have solved the question by my own and a bit help. Need to increase my siiitng and patience level for problem statement
+
+Link to work: [Circular and even-odd linked list question](https://github.com/PranshuSharma1/cpp-complete/commit/5b5421402ad33aea97aa084b3d66e3c596289b53)
 
 
 
+https://github.com/PranshuSharma1/100-days-of-code/commit/4426a0e6de846166813fe78eafbe4ecc506b6fdd
 
