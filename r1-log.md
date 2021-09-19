@@ -469,7 +469,16 @@ Day 42: 18 September 2021. Saturday
 
 Link to work: [Circular and even-odd linked list question](https://github.com/PranshuSharma1/cpp-complete/commit/5b5421402ad33aea97aa084b3d66e3c596289b53)
 
+-------------------------------------------------------------
+
+Day 43: 19 September 2021. Sunday
+
+ 
+>>Today's Progress:-  worked on basic operations (like pus , pop, empty , top) stacks.
+
+>Thoughts:- have started on stacks , feels good
+
+Link to work: [Stacks question](https://github.com/PranshuSharma1/cpp-complete/commit/ef007ff5d030d45dec32eea81fceab5a22dc6406)
 
 
-https://github.com/PranshuSharma1/100-days-of-code/commit/4426a0e6de846166813fe78eafbe4ecc506b6fdd
 
