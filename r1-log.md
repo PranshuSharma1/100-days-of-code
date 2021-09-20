@@ -481,4 +481,17 @@ Day 43: 19 September 2021. Sunday
 Link to work: [Stacks question](https://github.com/PranshuSharma1/cpp-complete/commit/ef007ff5d030d45dec32eea81fceab5a22dc6406)
 
 
+-------------------------------------------------------------
+
+Day 44: 20 September 2021. Monday
+
+ 
+>>Today's Progress:-  worked on reversing the sentence to reversing the stack
+
+>Thoughts:- reversing the stack with recusion is not yet completed yet.
+
+Link to work: [Stacks question](https://github.com/PranshuSharma1/cpp-complete/commit/7a59d285004d5e29e3f2de8bfdb7b48ba40f758d)
+
+
+
 
