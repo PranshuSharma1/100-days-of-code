@@ -492,6 +492,17 @@ Day 44: 20 September 2021. Monday
 
 Link to work: [Stacks question](https://github.com/PranshuSharma1/cpp-complete/commit/7a59d285004d5e29e3f2de8bfdb7b48ba40f758d)
 
+-------------------------------------------------------------
+
+Day 45: 21 September 2021. Tuesday
+
+ 
+>>Today's Progress:-  worked on reversing the stack via recursion
+
+>Thoughts:- have finally debug the issue and underrstood the concept
+
+Link to work: [Stacks question](https://github.com/PranshuSharma1/cpp-complete/commit/698dfae0d250628a73a150ac72a4105d6707eac5)
 
 
+https://github.com/PranshuSharma1/100-days-of-code/commit/75e8103d0fefa35b4a5dfd9e5b17a3f82fb635cd
 
