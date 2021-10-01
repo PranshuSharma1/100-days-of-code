@@ -503,6 +503,18 @@ Day 45: 21 September 2021. Tuesday
 
 Link to work: [Stacks question](https://github.com/PranshuSharma1/cpp-complete/commit/698dfae0d250628a73a150ac72a4105d6707eac5)
 
+-------------------------------------------------------------
 
-https://github.com/PranshuSharma1/100-days-of-code/commit/75e8103d0fefa35b4a5dfd9e5b17a3f82fb635cd
+Day 46: 1 October 2021. Friday
 
+ 
+>>Today's Progress:- worked on stack postfix && prefix AND queue implementation via array and linked list
+
+>Thoughts:- have got back after a week long break, will be try my best  consistent for a whole week now. CHALLENGE ACCEPTED.
+
+Link to work: [Stacks(postfix && prefix) and Queue question](https://github.com/PranshuSharma1/cpp-complete/commit/6a816f6d9e4cfb046662d6d6f2a690b07715b99a)
+
+
+
+
+https://github.com/PranshuSharma1/100-days-of-code/commit/affde96ced045d5894fb006447c360fbb42a969d
