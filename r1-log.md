@@ -474,7 +474,7 @@ Link to work: [Circular and even-odd linked list question](https://github.com/Pr
 Day 43: 19 September 2021. Sunday
 
  
->>Today's Progress:-  worked on basic operations (like pus , pop, empty , top) stacks.
+>>Today's Progress:-  worked on basic operations (like push , pop, empty , top) stacks.
 
 >Thoughts:- have started on stacks , feels good
 
@@ -515,6 +515,15 @@ Day 46: 1 October 2021. Friday
 Link to work: [Stacks(postfix && prefix) and Queue question](https://github.com/PranshuSharma1/cpp-complete/commit/6a816f6d9e4cfb046662d6d6f2a690b07715b99a)
 
 
+-------------------------------------------------------------
+
+Day 47: 2 October 2021. Saturday
+
+>>Today's Progress:- worked on queue using the stack implementation.
+
+>Thoughts:- have worked today because of the consistency.
+
+Link to work: [Queue using Stacks question](https://github.com/PranshuSharma1/cpp-complete/commit/88be75c3d84b44a1b423afe53bf523ea92956472)
 
 
-https://github.com/PranshuSharma1/100-days-of-code/commit/affde96ced045d5894fb006447c360fbb42a969d
+
