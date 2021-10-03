@@ -525,5 +525,14 @@ Day 47: 2 October 2021. Saturday
 
 Link to work: [Queue using Stacks question](https://github.com/PranshuSharma1/cpp-complete/commit/88be75c3d84b44a1b423afe53bf523ea92956472)
 
+-------------------------------------------------------------
+
+Day 48: 3 October 2021. Sunday
+
+>>Today's Progress:- worked on queue using the stack via recursive implementation.
+
+>Thoughts:- feels good to be consistent.
+
+Link to work: [Queue using Stacks via Recursive question](https://github.com/PranshuSharma1/cpp-complete/commit/4623d89c41f6890782f03f300d669abf22cb5095)
 
 
